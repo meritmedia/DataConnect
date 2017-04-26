@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" Codefile="getCollections.aspx.cs" Inherits="DataConnect.Radiogogy.getCollections" Debug="true"%>
